@@ -20,6 +20,11 @@ O layout já está definido.
 - Google Cloud APIs (Maps, Routes, Directions)
 - Bibliotecas adicionais serão definidas ao longo do desenvolvimento
 
+## Ícones
+
+- Usar exclusivamente `lucide-react-native` para todos os ícones do projeto
+- Não usar `@expo/vector-icons` ou qualquer outra biblioteca de ícones
+
 ## Regras de Desenvolvimento
 
 - Sempre responder em português
